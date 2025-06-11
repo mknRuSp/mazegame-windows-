@@ -4,12 +4,6 @@
 #include <ctime>
 using namespace std;
 
-//Windows 7がとても良いOSだと考える理由、
-// １windows95、windowsXPに次windowsの基礎を作り上げた、
-//洗練されたデザイン、UACの簡素化、Vistaで頻度が高すぎると言われていたUACが簡素化された、ブラウザーからダウンロードするときにしたにゲージが出てくる、
-//２ 更に高機能、高性能のCPUなどが登場した事による思いプログラムの実行そして使いやすさや堅牢さなどにより今だ病院などの施設で利用されています
-//３ 9x系を完全に断ち切りNT系を完全に取り入れた他にも現在でwindowsにおいて優位な機能などがwindows7予来な物が多いです
-
 int stage = 1;
 bool flag = false; 
 bool havemoneybag = false;
